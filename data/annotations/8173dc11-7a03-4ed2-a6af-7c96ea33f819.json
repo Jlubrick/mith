@@ -8,35 +8,6 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "This is pretty easy "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Zeus",
-          "category": "Mythology"
-        },
-        {
-          "tag": "Posiedon",
-          "category": "Mythology"
-        },
-        {
-          "tag": "Hades",
-          "category": "Mythology"
-        }
-      ],
-      "uuid": "e528bee9-bee0-454d-b5b7-fe0ddeeaf186"
-    },
-    {
-      "start_time": 0,
-      "end_time": 1,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
               "text": "The God of The Underworld "
             }
           ]
