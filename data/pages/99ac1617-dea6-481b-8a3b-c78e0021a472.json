@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-02-28T20:43:33.146Z",
+  "created_by": "Jlubrick",
+  "title": "Testing Myth",
+  "slug": "testing-myth",
+  "updated_at": "2025-02-28T20:43:33.146Z",
+  "updated_by": "Jlubrick",
+  "parent": "2cd2833f-0d76-4f1c-bf56-17a238afb17c",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "2a3eec49-cf2b-4f49-9f47-aedaeb3c62a0"
+  }
+}

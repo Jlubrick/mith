@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "e3d869bf-ba7e-43bd-a976-93561c4b280a": {
+      "label": "I wonder if this matters ",
+      "is_offline": false,
+      "file_url": "https://ia601506.us.archive.org/13/items/sample-03_202502/Sample%2003.mp3",
+      "duration": 201
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "Something Else",
+  "item_type": "Audio",
+  "label": "Testing Myth",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This is definitely not a reading but something else."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-02-28T20:43:32.970Z",
+  "created_by": "Jlubrick",
+  "updated_at": "2025-02-28T20:43:32.970Z",
+  "updated_by": "Jlubrick"
+}
