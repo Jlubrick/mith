@@ -49,6 +49,27 @@
         }
       ],
       "uuid": "0ca340de-7cb1-4ff2-b3a9-76935a807d0a"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "God of The Sea"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Posiedon",
+          "category": "Mythology"
+        }
+      ],
+      "uuid": "5350c54f-dfde-402b-a0ed-e2dbb9e4e533"
     }
   ],
   "set": "Default",
