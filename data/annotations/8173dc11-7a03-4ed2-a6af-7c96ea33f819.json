@@ -70,6 +70,27 @@
         }
       ],
       "uuid": "5350c54f-dfde-402b-a0ed-e2dbb9e4e533"
+    },
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "God of Olympus "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zeus",
+          "category": "Mythology"
+        }
+      ],
+      "uuid": "41f3efb9-3149-4ba5-8888-46088b4af069"
     }
   ],
   "set": "Default",
