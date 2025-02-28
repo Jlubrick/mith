@@ -1,5 +1,35 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is pretty easy "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zeus",
+          "category": "Mythology"
+        },
+        {
+          "tag": "Posiedon",
+          "category": "Mythology"
+        },
+        {
+          "tag": "Hades",
+          "category": "Mythology"
+        }
+      ],
+      "uuid": "e528bee9-bee0-454d-b5b7-fe0ddeeaf186"
+    }
+  ],
   "set": "Default",
   "event_id": "2a3eec49-cf2b-4f49-9f47-aedaeb3c62a0",
   "source_id": "e3d869bf-ba7e-43bd-a976-93561c4b280a"
