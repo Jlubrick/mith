@@ -83,6 +83,27 @@
         }
       ],
       "uuid": "dbc9e5d6-c383-408b-b328-4a6dd9aa4315"
+    },
+    {
+      "start_time": 0,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This guy sucks "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Romans",
+          "tag": "Marcus Regulus"
+        }
+      ],
+      "uuid": "881d7583-91d4-4c72-b451-d8dc3c8c8c6b"
     }
   ],
   "set": "Default",
